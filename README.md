@@ -1,5 +1,17 @@
 # keras-vggface [![Build Status](https://travis-ci.org/rcmalli/keras-vggface.svg?branch=master)](https://travis-ci.org/rcmalli/keras-vggface) [![PyPI Status](https://badge.fury.io/py/keras-vggface.svg)](https://badge.fury.io/py/keras-vggface) [![PyPI Status](https://pepy.tech/badge/keras-vggface)](https://pepy.tech/project/keras-vggface)
 
+Fork Notes:
+![image](https://github.com/user-attachments/assets/04b41929-fa71-456b-a08c-d1815f04f9f4)
+
+As of 08/05/2025, all tests are passed with ✅
+```
+`package`                             `ver`
+keras                                 3.9.2
+Keras-Applications                    1.0.8
+tensorflow                            2.19.0
+```
+---
+
 Oxford VGGFace  Implementation using Keras Functional Framework v2+
 
 - Models are converted from original caffe networks.
